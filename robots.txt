@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nadawuqo.github.io/sitemap/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/twW/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Kxs/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Ltu/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/wXZ/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Yld/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/itx/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Wde/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/JHd/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/ROK/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/eFn/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Eap/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/vnP/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/wBC/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Tab/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/Wsk/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/qcx/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/mRb/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/PJf/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/BIs/sitemap_index.nadawuqo
+Sitemap: https://nadawuqo.github.io/MSP/sitemap_index.nadawuqo
